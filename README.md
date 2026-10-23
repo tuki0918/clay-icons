@@ -49,7 +49,7 @@
 ## アイコン一覧
 
 | Preview | Name | File | Tags |
-| --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: |
 | ![Accounting](icons/accounting.png) | Accounting | `accounting.png` | accounting, abacus, bookkeeping, finance |
 | ![Accessibility](icons/accessibility.png) | Accessibility | `accessibility.png` | accessibility, wheelchair, mobility, inclusive |
 | ![Agriculture](icons/agriculture.png) | Agriculture | `agriculture.png` | agriculture, tractor, farming, field |
